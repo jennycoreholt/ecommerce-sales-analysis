@@ -9,9 +9,9 @@ An exploratory data analysis of E-List, a digital e-commerce business, examining
 
 E-List is an American e-commerce company dedicated to the digital marketplace, selling popular elecotronic products. Operating across a diverse product catalogue, E-List serves thousands of customers nationwide, from first-time buyers to loyal repeat customers who return for the quality and convenience the brand is known for. With a focus on growth, customer retention, and delivering measurable value, E-List continues to evolve its offering in an increasingly competitive digital landscape.
 
-![growth metrics header image](./image:growth_img_6.png)
-
 ## Executive Summary
+
+![growth metrics header image](./image:growth_img_6.png)
 
 This project analyses transactional data from 2019 to 2022 to answer key business questions across five areas:  
 
@@ -77,36 +77,31 @@ This project uses E-List's order dataset, presented as an excel file. A structur
    <tbody>
     <tr>
       <td>
-       <b>Findings</b><br>     
+       <br>
+       <b>Key Findings</b><br>     
        <ul>
         <li>
-         AOV consistently increases every year during Q3 (July–October), with an average uplift of approximately $20. 
+         <b>AOV consistently increases</b> every year during Q3 (July–October), with an average uplift of approximately $20. 
         </li>
         <li>
-         This pattern repeats across all four years, suggesting a structural seasonal trend rather than a one-off event.
+         This <b>pattern repeats across all four years</b>, suggesting a structural seasonal trend rather than a one-off event.
         </li>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
        </ul>
+        <br>
       </td>
       <td>
+        <br>
        <b>Recommendations</b></br>
        <ul>
         <li>
-          Double down on Q3</br>
-          invest in targeted marketing campaigns ahead of July to capitalise on the natural uplift already present in the data
+          Invest in targeted marketing campaigns ahead of July to <b>capitalise on the natural uplift</b> already present in the data
         </li>
         <li>
-         Introduce Q3 specific bundles</br>
-         Since customers are already spending more, bundling products at a slight premium could push AOV even higher
-        </li>
-        <li>
-         Test a loyalty reward event in Q3 to retain the customers acquired during the peak and convert them into returning customers
+         <b>Introduce Q3 specific bundles</b></br>
+         Since customers are already spending more, bundling products at a slight premium could push AOV even higher.
         </li>
        </ul>
+       <br>
       </td>
     </tr>
    </tbody>
@@ -118,30 +113,33 @@ This project uses E-List's order dataset, presented as an excel file. A structur
    <tbody>
     <tr>
       <td>
-       <b>Findings</b><br>
+       <br>
+       <b>Key Findings</b><br>
        <ul>
         <li>
-         AOV peaked in 2020 at $300.20, coinciding with the height of the Covid-19 pandemic.
+         <b>AOV peaked in 2020</b> at $300.20, coinciding with the height of the Covid-19 pandemic.
         </li>
         <li>
          Following the peak, AOV declined steadily, returning close to pre-pandemic 2019 levels by 2022.
         </li>
         <li>
-         The pattern suggests the AOV spike was driven by external pandemic conditions — increased digital dependency, remote work and learning adoption — rather than any internal shift in sales or marketing strategy
+         The pattern suggests the <b>AOV spike was driven by external pandemic conditions</b>, increased digital dependency, remote work and learning adoption; rather than any internal shift in sales or marketing strategy
         </li>
        </ul>
+        <br>
       </td>
       <td>
        <b>Recommendations</b><br>
        <ul>
         <li>
-         Don't benchmark against 2020. Using peak pandemic figures as a performance target would be misleading; 2019 figures are a more realistic baseline for future planning.
+         <b>Don't benchmark against 2020</b>. Using peak pandemic figures as a performance target would be misleading; 2019 figures are a more realistic baseline for future planning.
         </li>
         <li>
-         Develop a retention strategy for pandemic-era customers — many customers acquired in 2020 may have lapsed; a re-engagement campaign targeting this cohort could recover some of that lost AOV.
+         <b>Develop a retention strategy for pandemic-era customers</b>. Many customers acquired in 2020 may have lapsed; a re-engagement campaign targeting this cohort could recover some of that lost AOV.
         </li>
-        <br>
        </ul>
+       <br>
+        <br>
       </td>
     </tr> 
    </tbody>
@@ -152,20 +150,85 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 <br>
 
 ### Seasonal Trends
+#### Monthly Growth Over 4 Years
 
 <table>
     <tbody>
     <tr>
-      <td><img src="./image:growth_img_2.png"></td>
-      <td><img src="./image:growth_img_3.png"></td>
+      <td>
+       <p><b>2019</b></p>
+       <img src="./image:growth_img_2.png">
+      </td>
+      <td>
+        <p><b>2020</b></p>
+       <img src="./image:growth_img_3.png">
+      </td>
     </tr>
-    <tr>
-      <td><img src="./image:growth_img_4.png"></td>
-      <td><img src="./image:growth_img_5.png"></td>
+    <tr style="background-color:none">
+      <td>
+       <p><b>2021</b></p>
+       <img src="./image:growth_img_4.png">
+      </td>
+      <td>
+       <p><b>2022</b></p>
+       <img src="./image:growth_img_5.png">
+      </td>
     </tr>
   </tbody>
 </table>
 
+<br>
+
+#### Top Performing Months
+
+<table>
+ <tbody>
+   <tr>
+     <td width="50%">
+      <br>
+      <p><b>Key Findings </b></p>
+      <ul>
+       <li>
+        A strong and consistent <b>Fall/Autumn seasonal trend</b> is evident across all four years. Gross Revenue, Number of Sales, and AOV all peak during this period, <b>spanning the end of Q3 through early Q4 (September– November).</b>
+       </li>
+       <li>
+        <b>November and December</b> are the most consistently high-performing months across all metrics and all years, driven by end-of-year consumer spending behaviour.
+       </li>
+       <li>
+July appears repeatedly as a strong performer for both revenue and sales volume, reinforcing the Q3 uplift identified in the AOV trend analysis.
+        </li>
+       <li>
+<b>The March 2020 spike</b> (Gross Revenue +50%, Sales +46%) is a clear outlier driven by Covid-19 pandemic conditions — panic buying and accelerated digital adoption — and should be <b>excluded from seasonal benchmarking</b> to avoid distorting performance patterns
+       </li>
+      </ul>
+      <br>
+     </td>
+    <td>
+      <br>
+      <p><b>Year by Year Highlights </b></p>
+     <ul>
+      <li>
+      <b>2019</b> — Growth was driven by a strong Q4 with November delivering the highest single-month revenue growth at <b>+35%</b>, consistent with pre-pandemic consumer behaviour.
+      </li>
+      <li>
+       <b>2020</b> — March dominates due to pandemic conditions. Excluding March, December (+34%) emerges as the true seasonal peak, consistent with other years.
+      </li>
+      <li>
+       <b>2021</b> — November and December reassert themselves as the top performers, suggesting a <b>return to normalcy</b> in seasonal buying patterns post-pandemic peak
+      </li>
+      <li>
+       <b>2022</b> — The seasonal pattern holds with December (+26%) and November (+17%) leading, though overall growth rates are lower reflecting the broader declining revenue trend
+      </li>
+     </ul>
+     <br>
+     <br>
+     <br>
+    </td>
+   </tr>
+  </tbody>
+ </tr>
+ <table>
+       
 <br>
 <hr>
 <br>
