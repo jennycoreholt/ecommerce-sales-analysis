@@ -152,30 +152,8 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 ### Seasonal Trends
 #### Monthly Growth Over 4 Years
 
-<table>
-    <tbody>
-    <tr>
-      <td>
-       <p><b>2019</b></p>
-       <img src="./image:growth_img_2.png">
-      </td>
-      <td>
-        <p><b>2020</b></p>
-       <img src="./image:growth_img_3.png">
-      </td>
-    </tr>
-    <tr style="background-color:none">
-      <td>
-       <p><b>2021</b></p>
-       <img src="./image:growth_img_4.png">
-      </td>
-      <td>
-       <p><b>2022</b></p>
-       <img src="./image:growth_img_5.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+![seasonal growth heat map](./image:growth_img_15.png)     
 
 <br>
 
@@ -225,10 +203,107 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
      <br>
     </td>
    </tr>
+ </tbody>
+</table>
+
+#### Worst Performing Months
+
+<table>
+ <tbody>
+   <tr>
+     <td width="50%">
+      <br>
+      <p><b>Key Findings </b></p>
+      <ul>
+       <li>
+        <b>February and Octobe</b>r are the most consistently worst-performing months across all four years for both Gross Revenue and Number of Sales.
+       </li>
+       <li>
+        February underperformance is likely structural — it is the <b>shortest month</b> and sits in a post-holiday spending lull following January.
+       </li>
+       <li>
+       October is a recurring weak spot despite sitting within the broader Q3–Q4 strong period, suggesting a <b>mid-season dip</b> before the November–December surge.
+       </li>
+      </ul>
+      <br>
+     </td>
+     <td>
+      <br>
+      <ul>
+      <li>
+        January frequently appears as a poor performer, consistent with post-holiday consumer spending fatigue.
+        </li>
+        <li>
+         <b>AOV remains relatively stable</b> throughout the year — the range across four years sits between <b>-16% and +18%</b>, indicating that while customers buy less frequently in weaker months, those who do purchase spend a <b>similar amount per order</b>.
+        </li>
+        <li>
+         This is a significant insight — the revenue problem in slow months is a <b>volume problem, not a value problem</b>.
+        </li>
+      </ul>
+      <br>
+      <br>
+      <br>
+    </td>
+   </tr>
   </tbody>
- </tr>
- <table>
-       
+</table>
+
+
+#### Observations & Recommendations
+
+<table>
+ <tbody>
+   <tr>
+     <td width="50%">
+      <br>
+      <p><b>Lean into the seasonal peak early </b></p>
+      <ul>
+       <li>
+        Begin Q3–Q4 marketing campaigns in late August to capture early seasonal demand before the November rush
+       </li>
+       <li>
+        Given July's consistent strength, a mid-year summer promotion could extend the peak window further into Q3
+       </li>
+      </ul>
+      <br>
+      <p><b>Address the February and October slumps directly </b></p>
+      <ul>
+       <li>
+        Introduce limited-time offers or loyalty incentives in February and October to stimulate volume — since AOV holds steady, even a modest increase in order numbers would meaningfully lift revenue
+       </li>
+       <li>
+        Consider email re-engagement campaigns targeting lapsed customers in January to front-load Q1 before the February dip hits
+       </li>
+      </ul>
+      <br>
+     </td>
+     <td>
+      <br>
+      <p><b>Use AOV stability as a lever</b></p>
+      <ul>
+      <li>
+        Since AOV doesn't fluctuate significantly across seasons, focus retention and upsell strategies on increasing purchase frequency rather than pushing customers to spend more per order
+        </li>
+        <li>
+         A loyalty reward that incentivises a second purchase within 60 days could be particularly effective during traditionally slow months
+        </li>
+      </ul>
+      <p><b>Exclude March 2020 from all benchmarking</b></p>
+      <ul>
+      <li>Flag this data point clearly in all reporting — using it as a growth target would set unrealistic expectations and misrepresent true seasonal patterns
+      </li>
+      <li>Use 2019 and 2021 as the most reliable baseline years for seasonal benchmarking, as they are least distorted by external events
+      </li>
+      </ul>
+      <br>
+      <br>
+      <br>
+    </td>
+   </tr>
+  </tbody>
+</table>
+
+  
 <br>
 <hr>
 <br>
