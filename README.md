@@ -1,6 +1,6 @@
 ![elist logo](./images/elist_logo.svg)
 
-# Driving Growth: E-Commerce Analysis Identifying & Improving Sales Peformance and Customer Retention
+# Driving Growth: E-Commerce Analysis Identifying & Improving Sales Performance and Customer Retention
 
 An exploratory data analysis of E-List, a digital e-commerce business, examining four years of sales performance, customer behaviour and product and program trends, in order to find and communicate key insights and recommendations to the operations and sales stakeholders.
 
