@@ -1,4 +1,4 @@
-![elist logo](./elist_logo.svg)
+![elist logo](./images/elist_logo.svg)
 
 # Driving Growth: E-Commerce Analysis Identifying & Improving Sales Peformance and Customer Retention
 
