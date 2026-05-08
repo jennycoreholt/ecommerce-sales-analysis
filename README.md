@@ -1,8 +1,7 @@
-
 ![elist logo](./elist_logo.svg)
 
 # Driving Growth: E-Commerce Analysis Identifying & Improving Sales Peformance and Customer Retention
- 
+
 An exploratory data analysis of E-List, a digital e-commerce business, examining four years of sales performance, customer behaviour and product and program trends, in order to find and communicate key insights and recommendations to the operations and sales stakeholders.
 
 ## About the Company
@@ -13,9 +12,10 @@ E-List is an American e-commerce company dedicated to the digital marketplace, s
 
 This report presents a four-year analysis (2019–2022) of E-List's Nortstar Metrics: sales performance, customer behaviour, product trends, and regional distribution, with the goal of identifying growth opportunities, retention risks, and operational inefficiencies.
 
-![growth metrics header image](./image:growth_img_6.png)
+![growth metrics header image](./images/growth_img_6.png)
 
 ### Key Findings
+
 <table>
  <tbody>
   <tr>
@@ -82,16 +82,17 @@ This report presents a four-year analysis (2019–2022) of E-List's Nortstar Met
 </table>
 
 ## Table of Contents
+
 1. [Data and Scope](#data-and-scope)
-2. [Key Findings and Insights](#key-findings-and-insights)   
-    2.1. [Monthly and Yearly Trends](#monthly-and-yearly-trends)         
-    2.2. [Seasonal Trends](#seasonal-trends)      
-    2.3. [Product Trends](#product-trends)     
-    2.4. [Geographical Trends](#geographical-trends)     
-    2.5. [Refund Rates](#refund-rates)    
-    2.6. [Refund Rates: Apple Products Focus](#refund-rates-apple-products-focus)         
-    2.7. [Loyalty Program](#loyalty-program)               
-4. [Recommendations for Stakeholders](#recommendations-for-stakeholders)
+2. [Key Findings and Insights](#key-findings-and-insights)  
+   2.1. [Monthly and Yearly Trends](#monthly-and-yearly-trends)  
+   2.2. [Seasonal Trends](#seasonal-trends)  
+   2.3. [Product Trends](#product-trends)  
+   2.4. [Geographical Trends](#geographical-trends)  
+   2.5. [Refund Rates](#refund-rates)  
+   2.6. [Refund Rates: Apple Products Focus](#refund-rates-apple-products-focus)  
+   2.7. [Loyalty Program](#loyalty-program)
+3. [Recommendations for Stakeholders](#recommendations-for-stakeholders)
 
 ## Data and Scope
 
@@ -102,13 +103,13 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 - Order Status
 - Geography
 
-![Entity Relationship Digram](./image:erd.png)
+![Entity Relationship Digram](./images/erd.png)
 
 ## Key Findings and Insights
 
 ### Monthly and Yearly Trends
 
-![growth metrics header image](./image:growth_img_7.png)
+![growth metrics header image](./images/growth_img_7.png)
 
 <table>
    <tbody>
@@ -144,7 +145,7 @@ This project uses E-List's order dataset, presented as an excel file. A structur
    </tbody>
 </table>
 
-![growth metrics header image](./image:growth_img_8.png)
+![growth metrics header image](./images/growth_img_8.png)
 
 <table>
    <tbody>
@@ -187,10 +188,10 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 <br>
 
 ### Seasonal Trends
+
 #### Monthly Growth Over 4 Years
 
-
-![seasonal growth heat map](./image:growth_img_15.png)     
+![seasonal growth heat map](./images/growth_img_15.png)
 
 <br>
 
@@ -285,7 +286,6 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
   </tbody>
 </table>
 
-
 #### Observations & Recommendations
 
 <table>
@@ -338,17 +338,18 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
   </tbody>
 </table>
 
-  
 <br>
 <hr>
 <br>
 
 ### Product Trends
+
 #### Sales Revenue vs. Units Sold. Top & Bottom Performers
 
-![Entity Relationship Digram](./image:growth_img_16.png)
+![Entity Relationship Digram](./images/growth_img_16.png)
 
 #### Key Findings
+
 <table width="100%">
    <tbody>
     <tr>
@@ -469,11 +470,12 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
  </tbody>
 </table>
        
-![Entity Relationship Digram](./image:growth_img_11.png)
+![Entity Relationship Digram](./images/growth_img_11.png)
 
-![Entity Relationship Digram](./image:growth_img_12.png)
+![Entity Relationship Digram](./images/growth_img_12.png)
 
 #### Deeper Observations
+
 <table width="100%">
    <tbody>
     <tr>
@@ -517,6 +519,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 </table>
 
 #### Where to Focus?
+
 <table width="100%">
    <tbody>
     <tr>
@@ -563,7 +566,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 
 #### Overall Refund Trends (2019–2022)
 
-![Returns vs Loyalty and non customers 2019-2022](./image:refund_img_7.png)
+![Returns vs Loyalty and non customers 2019-2022](./images/refund_img_7.png)
 
 <table>
  <tbody>
@@ -583,7 +586,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 
 #### Refund Rates by Product
 
-![Entity Relationship Digram](./image:refund_img_1.png)
+![Entity Relationship Digram](./images/refund_img_1.png)
 
 <table>
  <tbody>
@@ -604,6 +607,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 </table>
 
 #### Is the Refund Rate a Problem?
+
 <table>
  <tbody>
   <tr>
@@ -620,14 +624,13 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 <hr>
 <br>
 
-
 ### Refund Rates: Apple Products Focus
 
 <table>
  <tbody>
   <tr>
    <td width="65%">
-    <img alt="apple products reutrn behaviour 2019 - 2022" src="./image:refund_img_2.png">
+    <img alt="apple products reutrn behaviour 2019 - 2022" src="./images/refund_img_2.png">
    </td>
    <td>
     <ul>
@@ -647,7 +650,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 
 ### Loyalty Program
 
-![Entity Relationship Digram](./image:loyalty_img_5.png)
+![Entity Relationship Digram](./images/loyalty_img_5.png)
 
 <table>
  <tbody>
@@ -665,8 +668,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
  </tbody>
 </table>
 
-
-![Entity Relationship Digram](./image:loyalty_img_6.png)
+![Entity Relationship Digram](./images/loyalty_img_6.png)
 
 <table>
  <tbody>
@@ -680,7 +682,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
  </tbody>
 </table>
 
-![Entity Relationship Digram](./image:loyalty_img_7.png)
+![Entity Relationship Digram](./images/loyalty_img_7.png)
 
 <table>
  <tbody>
@@ -701,6 +703,7 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 </table>
 
 #### Should the Loyalty Program Continue?
+
 <table>
  <tbody>
   <tr>
@@ -793,7 +796,6 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
  </tbody>
 </table>
 
-
 ### Loyalty Program — Should It Continue?
 
 The recommendation is not to abandon the program but to restructure it around two clear goals it is currently not achieving.
@@ -841,4 +843,3 @@ The recommendation is not to abandon the program but to restructure it around tw
   </tr>
  </tbody>
 </table>
-
