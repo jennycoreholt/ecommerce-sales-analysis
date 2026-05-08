@@ -346,7 +346,9 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 
 #### Sales Revenue vs. Units Sold. Top & Bottom Performers
 
-![Entity Relationship Digram](./images/growth_img_16.png)
+![Entity Relationship Digram](./images/growth_img_9.png)
+
+![Entity Relationship Digram](./images/growth_img_10.png)
 
 #### Key Findings
 
