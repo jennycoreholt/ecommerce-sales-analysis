@@ -84,7 +84,7 @@ This report presents a four-year analysis (2019–2022) of E-List's Nortstar Met
 ## Table of Contents
 
 1. [Data and Scope](#data-and-scope)
-2. [Key Findings and Insights](#key-findings-and-insights)  
+2. [Insights](#insights)  
    2.1. [Monthly and Yearly Trends](#monthly-and-yearly-trends)  
    2.2. [Seasonal Trends](#seasonal-trends)  
    2.3. [Product Trends](#product-trends)  
@@ -105,7 +105,7 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 
 ![Entity Relationship Digram](./images/erd.png)
 
-## Key Findings and Insights
+## Insights
 
 ### Monthly and Yearly Trends
 
@@ -114,19 +114,6 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 <table>
    <tbody>
     <tr>
-      <td>
-       <br>
-       <b>Key Findings</b><br>     
-       <ul>
-        <li>
-         <b>AOV consistently increases</b> every year during Q3 (July–October), with an average uplift of approximately $20. 
-        </li>
-        <li>
-         This <b>pattern repeats across all four years</b>, suggesting a structural seasonal trend rather than a one-off event.
-        </li>
-       </ul>
-        <br>
-      </td>
       <td>
         <br>
        <b>Recommendations</b></br>
@@ -152,21 +139,6 @@ This project uses E-List's order dataset, presented as an excel file. A structur
     <tr>
       <td>
        <br>
-       <b>Key Findings</b><br>
-       <ul>
-        <li>
-         <b>AOV peaked in 2020</b> at $300.20, coinciding with the height of the Covid-19 pandemic.
-        </li>
-        <li>
-         Following the peak, AOV declined steadily, returning close to pre-pandemic 2019 levels by 2022.
-        </li>
-        <li>
-         The pattern suggests the <b>AOV spike was driven by external pandemic conditions</b>, increased digital dependency, remote work; rather than any internal shift in sales or marketing strategy.
-        </li>
-       </ul>
-        <br>
-      </td>
-      <td>
        <b>Recommendations</b><br>
        <ul>
         <li>
@@ -177,7 +149,6 @@ This project uses E-List's order dataset, presented as an excel file. A structur
         </li>
        </ul>
        <br>
-        <br>
       </td>
     </tr> 
    </tbody>
@@ -200,25 +171,6 @@ This project uses E-List's order dataset, presented as an excel file. A structur
 <table>
  <tbody>
    <tr>
-     <td width="50%">
-      <br>
-      <p><b>Key Findings </b></p>
-      <ul>
-       <li>
-        A strong and consistent <b>Fall/Autumn seasonal trend</b> is evident across all four years. Gross Revenue, Number of Sales, and AOV all peak during this period, <b>spanning the end of Q3 through early Q4 (September– November).</b>
-       </li>
-       <li>
-        <b>November and December</b> are the most consistently high-performing months across all metrics and all years, driven by end-of-year consumer spending behaviour.
-       </li>
-       <li>
-July appears repeatedly as a strong performer for both revenue and sales volume, reinforcing the Q3 uplift identified in the AOV trend analysis.
-        </li>
-       <li>
-<b>The March 2020 spike</b> (Gross Revenue +50%, Sales +46%) is a clear outlier driven by Covid-19 pandemic conditions and should be <b>excluded from seasonal benchmarking</b> to avoid distorting performance patterns.
-       </li>
-      </ul>
-      <br>
-     </td>
     <td>
       <br>
       <p><b>Year by Year Highlights </b></p>
@@ -237,53 +189,9 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
       </li>
      </ul>
      <br>
-     <br>
-     <br>
     </td>
    </tr>
  </tbody>
-</table>
-
-#### Worst Performing Months
-
-<table>
- <tbody>
-   <tr>
-     <td width="50%">
-      <br>
-      <p><b>Key Findings </b></p>
-      <ul>
-       <li>
-        <b>February and October</b> are the most consistently worst-performing months across all four years for both Gross Revenue and Number of Sales.
-       </li>
-       <li>
-        February underperformance is likely structural, as it is the <b>shortest month</b> and sits in a post-holiday spending lull following January.
-       </li>
-       <li>
-       October is a recurring weak spot despite sitting within the broader Q3–Q4 strong period, suggesting a <b>mid-season dip</b> before the November–December surge.
-       </li>
-      </ul>
-      <br>
-     </td>
-     <td>
-      <br>
-      <ul>
-      <li>
-        January frequently appears as a poor performer, consistent with post-holiday consumer spending fatigue.
-        </li>
-        <li>
-         <b>AOV remains relatively stable</b> throughout the year. The range across four years sits between <b>-16% and +18%</b>, indicating that while customers buy less frequently in weaker months, those who do purchase spend a <b>similar amount per order</b>.
-        </li>
-        <li>
-         This is a significant insight, as it shows the revenue problem in slow months is a <b>volume problem, not a value problem</b>.
-        </li>
-      </ul>
-      <br>
-      <br>
-      <br>
-    </td>
-   </tr>
-  </tbody>
 </table>
 
 #### Observations & Recommendations
@@ -350,40 +258,6 @@ July appears repeatedly as a strong performer for both revenue and sales volume,
 
 ![Entity Relationship Digram](./images/growth_img_10.png)
 
-#### Key Findings
-
-<table width="100%">
-   <tbody>
-    <tr>
-     <td width="50%">
-      <ul>
-      <li>
-       There is a <b>near-perfect rank reversal</b> between the top two products when switching from revenue to volume. The <b>27in 4K Gaming Monitor</b> leads on revenue while <a>Apple AirPods Headphones</a> leads on units sold. This is expected given the significant price difference between the two products.
-      </li>
-       <li>
-        The <b>top 3 products by revenue</b> (27in 4K Gaming Monitor, Apple AirPods, MacBook Air Laptop) account for the majority of total revenue, indicating a concentrated revenue dependency on a small number of high-value products.
-       </li>
-      </ul>
-      <br>
-     </td>
-     <td width="50%">
-      <br>
-      <ul>
-       <li>
-        The <b>Samsung Charging Cable Pack</b> jumps from 5th in revenue to 3rd in units sold, a classic high-volume, low-margin product that drives transaction count but contributes less to overall revenue.
-       </li>
-      <li>
-     The <b>iPhone</b> consistently sits at the bottom across both revenue and units sold, suggesting either a <b>pricing, visibility, or product-market fit issue</b> that is worth investigating further.
-      </li>
-      <li>
-      The<b> MacBook Air Laptop</b> and <b>ThinkPad Laptop</b> rank higher on revenue than units sold, confirming they are high-value, <b>lower-frequency purchases</b>.
-      </li>
-      </ul>
-      <br>
-     </td>
-    </tr>
-   </tbody>
-</table>
 
 #### Observations & Recommendations
 
