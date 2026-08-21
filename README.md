@@ -23,86 +23,57 @@ E-List is a US founded e-commerce company dedicated to the digital marketplace, 
 
 ![growth metrics header image](./images/growth_img_6.png)
 
-### Insights
-<table>
- <tbody>
-  <tr>
-   <td>
-    <br>
-    <ul>
-     <li>Revenue peaked at <b>$1.3M in December 2020</b>, driven by pandemic-accelerated digital adoption. This is not a realistic performance benchmark. 2019 is a more reliable baseline.</li>
-     <li>Monthly average revenue across the period was <b>$586K</b>, with a consistent seasonal uplift every <b>Q3-Q4 (Sept - Nov)</b>.</li>
-     <li>AOV stayed stables at <b>$207-$345</b> across all four years, meaning growth strategies should target purchase frequency, not order size.</li>
-     <li>February and October are recurring dip each year</li>
-    </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+<br>
+<br>
+
+> [!NOTE]
+>  ### Insights
+> - Revenue peaked at <b>$1.3M in December 2020</b>, driven by pandemic-accelerated digital adoption. This is not a realistic performance benchmark. 2019 is a more reliable baseline.
+> - Monthly average revenue across the period was <b>$586K</b>, with a consistent seasonal uplift every <b>Q3-Q4 (Sept - Nov)</b>.
+> - AOV stayed stables at <b>$207-$345</b> across all four years, meaning growth strategies should target purchase frequency, not order size.
+> - February and October are recurring dip each year..
+
+<br>
+<br>
 
 ![growth metrics header image](./images/growth_img_7.png)
 
-### Recommendations
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-     <li>Launch Q3-Q4 campaigns in <b>late August</b> to capture demand ahead of the November rush; test a mid-year summer promo to extend the peak into Q3.</li>
-     <li>Run tactical promotions or loyalty incentives in <b>February and October</b> to offset seasonal dips.</li>
-     <li>Exclude <b>March 2020</b> from all benchmarking. Flag it clearly in reporting so it doesn't distort targets.</li>
-    </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+<br>
+<br>
+
+> [!TIP]
+> ### Recommendations
+> - Launch Q3-Q4 campaigns in <b>late August</b> to capture demand ahead of the November rush; test a mid-year summer promo to extend the peak into Q3.
+> - Run tactical promotions or loyalty incentives in <b>February and October</b> to offset seasonal dips.
+> - Exclude <b>March 2020</b> from all benchmarking. Flag it clearly in reporting so it doesn't distort targets.
 
 <br>
 <br>
 
 ## Product Performance
 
-### Insights
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-     <li>Top 3 revenue drivers: <b>27in 4K Gaming Monitor, Apple AirPods, MacBook Air.<b></li>
-     <li>The <b>Apple iPhone underperforms</b> on both revenue and units sold, despite AirPods and MacBook Air performing strongly in the same Apple-aligned customer base.</li>
-     <li>The <b>Charging Cable</b> selss high volume but low revenue per unit. A natural bundling/cross-sell candidate.</li>
-     <li><b>Laptop refund rates</b> (ThinkPad 11.8%, MacBook Air 11.4%) are more than double the 5% portfolio average.</li>
-    </ul>
-        <br>
-   </td>
-  </tr>
- </tbody>
-</table>
-      
+> [!NOTE]
+>  ### Insights
+> - Top 3 revenue drivers: <b>27in 4K Gaming Monitor, Apple AirPods, MacBook Air.</b>
+> - The <b>Apple iPhone underperforms</b> on both revenue and units sold, despite AirPods and MacBook Air performing strongly in the same Apple-aligned customer base.
+> - The <b>Charging Cable</b> selss high volume but low revenue per unit. A natural bundling/cross-sell candidate.
+> - <b>Laptop refund rates</b> (ThinkPad 11.8%, MacBook Air 11.4%) are more than double the 5% portfolio average.
+
+<br>
+<br>
+
 ![Entity Relationship Digram](./images/growth_img_9.png)
 ![Entity Relationship Digram](./images/growth_img_10.png)
 
-### Recommendations
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-      <li>Protect the top 3 products with strong inventory, prominent placement, and loyalty-reward inclusion. ANy decline here has outsized revenue impact.</li>
-      <li>Bundle the Charging Cable at checkout with high-ticket items to lift AOV passively.</li>
-      <li>Run a <b>pricing and visibility audit on the iPhone</b>. Likely causes are uncompetitive pricing vs.carriers/retailers or low listing visibility.</li>
-      <li>Investigate laptop refund drivers (descriptions, expectations, post-purchase support) given their high value and elevated return rate.</li>
-    </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+<br>
+<br>
+
+> [!TIP]
+> ### Recommendations
+> - Protect the top 3 products with strong inventory, prominent placement, and loyalty-reward inclusion. ANy decline here has outsized revenue impact.
+> - Bundle the Charging Cable at checkout with high-ticket items to lift AOV passively.
+> - Run a <b>pricing and visibility audit on the iPhone</b>. Likely causes are uncompetitive pricing vs.carriers/retailers or low listing visibility.
+> - Investigate laptop refund drivers (descriptions, expectations, post-purchase support) given their high value and elevated return rate.
 
 <br>
 <br>
@@ -111,45 +82,36 @@ E-List is a US founded e-commerce company dedicated to the digital marketplace, 
 
 ![Entity Relationship Digram](./images/loyalty_img_7.png)
 
-### Insights
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-     <li>Retention gap between members and non-members narrowed to just <b>6% by 2021-2022</b>. The program is working for retention.</li>
-     <li>It's <b>not working for spend</b>: Loyalty members had a lower AOV than non-members every year from 2019-2021.</li>
-     <li><b>2022 was the first year loyalty AOV exceeded non-loyalty AOV</b> ($244.79 vs $214.11). An early positive signal, though it coincides with an overall sales decline, so it needs more data before treating as a trend.</li>
-     <li>Non-loyalty customer unexpectedly drove <b>75% of returning-customer behaviour in 2019.</b> A large organic-retention segment with no formal incentive.</li>
-     </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+<br>
+<br>
+
+> [!NOTE]
+>  ### Insights
+> - Retention gap between members and non-members narrowed to just <b>6% by 2021-2022</b>. The program is working for retention.
+> - It's <b>not working for spend</b>: Loyalty members had a lower AOV than non-members every year from 2019-2021.
+> - <b>2022 was the first year loyalty AOV exceeded non-loyalty AOV</b> ($244.79 vs $214.11). An early positive signal, though it coincides with an overall sales decline, so it needs more data before treating as a trend.
+> - Non-loyalty customer unexpectedly drove <b>75% of returning-customer behaviour in 2019.</b> A large organic-retention segment with no formal incentive.
+
+<br>
+<br>
 
 ![Entity Relationship Digram](./images/loyalty_img_6.png)
 
+<br>
+<br>
 
 <b>Should the program continue?</b> Yes, but restructured. It's proving effective at retention, just not yet at driving spend, so the fix is to the incentive structure rather than the program itself. 
 
-### Recommendations
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-      <li>Introduce <b>tiered rewards unlocked at higher spend thresholds</b>, rather than rewarding repeat visits alone.</li>
-      <li>Investigate what drove the high organic return rate among non-loyalty customers in 2019. Replicating it could boost retention without added program overhead.</li>
-      <li>Monitor the 2022 AOV reversal into 2023 before treating it as validated; it's currently one data point against a declining-sales backdrop.</li>
-     </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+
+<br>
+<br>
+
+
+> [!TIP]
+> ### Recommendations
+> - Introduce <b>tiered rewards unlocked at higher spend thresholds</b>, rather than rewarding repeat visits alone.
+> - Investigate what drove the high organic return rate among non-loyalty customers in 2019. Replicating it could boost retention without added program overhead.
+> - Monitor the 2022 AOV reversal into 2023 before treating it as validated; it's currently one data point against a declining-sales backdrop.
 
 <br>
 <br>
@@ -158,88 +120,59 @@ E-List is a US founded e-commerce company dedicated to the digital marketplace, 
 
 ![Entity Relationship Digram](./images/refund_img_1.png)
 
-### Insights
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-     <li>The overall refund rate across four years was a healthy <b>5%</b>, in line with e-commerce benchmarks, and has been declining since a 2020-2021 pandemic-era spike (likely from less-engaged, first-time pandemic buyers).</li>
-     <li><b>Laptops are the clear outlierM</b>: ThinkPad (11.8%) and MacBook Air (11.4%) vs. a 5% portfolio average, is significant given these are high-ticket items.</li>
-     <li>Lower-value accessories (Charging Cable, Webcam, Bose Headphones) have negligible refund rates; <b>Bose SoundSport sits a 0%.</b></li>
-     <li>Apple product refund rates specifically improved sharply, from a 6-18% range in 2019 down to 0% by 2022. This is likely reflecting better listings and a more engaged post-pandemic buyer base.</li>
-     </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+<br>
+<br>
+
+> [!NOTE]
+>  ### Insights
+> - The overall refund rate across four years was a healthy <b>5%</b>, in line with e-commerce benchmarks, and has been declining since a 2020-2021 pandemic-era spike (likely from less-engaged, first-time pandemic buyers).
+> - <b>Laptops are the clear outlierM</b>: ThinkPad (11.8%) and MacBook Air (11.4%) vs. a 5% portfolio average, is significant given these are high-ticket items.
+> - Lower-value accessories (Charging Cable, Webcam, Bose Headphones) have negligible refund rates; <b>Bose SoundSport sits a 0%.</b>
+> - Apple product refund rates specifically improved sharply, from a 6-18% range in 2019 down to 0% by 2022. This is likely reflecting better listings and a more engaged post-pandemic buyer base.
+
+<br>
+<br>
 
 ![Returns vs Loyalty and non customers 2019-2022](./images/refund_img_7.png)
 <img alt="apple products return behaviour 2019 - 2022" src="./images/refund_img_2.png">
 
-### Recommendations
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-     <li>The overall rata needs no intervention. It is healthy and trending down.</li>
-     <li>Focus refund-reduction efforts specifically on <b>laptops</b>: review product descriptions, customer expectations, and post-purchase support.</li>
-     <li>Use the <b>Bose SoundSport's 0% rate as a case study</b>, to understand what about its listing or experience drives zero returns and apply those lessons elsewhere.</li>
-     </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+<br>
+<br>
+
+> [!TIP]
+> ### Recommendations
+> - The overall rata needs no intervention. It is healthy and trending down.
+> - Focus refund-reduction efforts specifically on <b>laptops</b>: review product descriptions, customer expectations, and post-purchase support.
+> - Use the <b>Bose SoundSport's 0% rate as a case study</b>, to understand what about its listing or experience drives zero returns and apply those lessons elsewhere.
 
 <br>
 <br>
 
 ## Geography 
 
-### Insights
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-     <li><b>North America dominates:</b> $14.5M revenue, 55,803 orders. This is nearly double EMEA, the next largest region.</li>
-     <li>The regional hierarchy (<b>NA > EMEA > APAC > LATAM</b>) holds across both revenue and order volume, indicating a structural market position rather than a campaign effect.</li>
-     <li><b>EMEA's AOV (~$252) is comparable to NA's</b>. The gap is a volume problem, not a spending problem, making it the most immediately actionable growth market.</li>
-     <li><b>APAC has the highest AOV (~$275)</b> despite low volume. A smaller, higher-spending base likely limited by localisation and payment friction.</li>
-     <li><b>LATAM</b> is smallest on both metrics with the lowest AOV (~$221).</li>
-    </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+> [!NOTE]
+>  ### Insights
+> - <b>North America dominates:</b> $14.5M revenue, 55,803 orders. This is nearly double EMEA, the next largest region.
+> - The regional hierarchy (<b>NA > EMEA > APAC > LATAM</b>) holds across both revenue and order volume, indicating a structural market position rather than a campaign effect.
+> - <b>EMEA's AOV (~$252) is comparable to NA's</b>. The gap is a volume problem, not a spending problem, making it the most immediately actionable growth market.
+> - <b>APAC has the highest AOV (~$275)</b> despite low volume. A smaller, higher-spending base likely limited by localisation and payment friction.
+> - <b>LATAM</b> is smallest on both metrics with the lowest AOV (~$221).
+
+<br>
+<br>
 
 ![Entity Relationship Digram](./images/growth_img_11.png)
 ![Entity Relationship Digram](./images/growth_img_12.png)
 
+<br>
+<br>
 
-### Recommendations
-<table>
- <tbody>
-  <tr>
-   <td>
-      <br>
-    <ul>
-      <li><b>NA</b>: prioritise retention and AOV growth over new acquisition. A 5% AOV lift here outweighs doubling LATAM entirely.</li></li>
-      <li><b>EMEA</b>: invest in reach and marketing spend; lowest risk, highest-probability growth region.</li>
-      <li><b>APAC</b>: run small, localised pilot campaigns (local payment methods, language support) before committing significant budget.</li>
-      <li><b>LATAM</b>: deprioritise short-term; monitor organically until NA/EMEA/APAC strategies mature.</li>
-    </ul>
-      <br>
-   </td>
-  </tr>
- </tbody>
-</table>
+> [!TIP]
+> ### Recommendations
+> - <b>NA</b>: prioritise retention and AOV growth over new acquisition. A 5% AOV lift here outweighs doubling LATAM entirely.
+> - <b>EMEA</b>: invest in reach and marketing spend; lowest risk, highest-probability growth region.
+> - <b>APAC</b>: run small, localised pilot campaigns (local payment methods, language support) before committing significant budget.
+> - <b>LATAM</b>: deprioritise short-term; monitor organically until NA/EMEA/APAC strategies mature.
+
 
 
