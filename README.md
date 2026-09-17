@@ -74,7 +74,7 @@ E-List is a US founded e-commerce company dedicated to the digital marketplace, 
 
 > [!TIP]
 > ### Recommendations
-> - Protect the top 3 products with strong inventory, prominent placement, and loyalty-reward inclusion. ANy decline here has outsized revenue impact.
+> - Protect the top 3 products with strong inventory, prominent placement, and loyalty-reward inclusion. Any decline here has outsized revenue impact.
 > - Bundle the Charging Cable at checkout with high-ticket items to lift AOV passively.
 > - Run a <b>pricing and visibility audit on the iPhone</b>. Likely causes are uncompetitive pricing vs.carriers/retailers or low listing visibility.
 > - Investigate laptop refund drivers (descriptions, expectations, post-purchase support) given their high value and elevated return rate.
