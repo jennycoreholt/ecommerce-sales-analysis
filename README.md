@@ -12,12 +12,16 @@ E-List is a US founded e-commerce company dedicated to the digital marketplace, 
 
 ## Table of Contents
 
-1. [Sales Trends](#sales-trends)
-2. [Product Performance](#product-performance)
-3. [Loyalty Program](#loyalty-program)
-4. [Refund Rates](#refund-rates)
-5. [Geography](#geography)
+**North Star Metric:** Repeat Purchase Rate, the primary measure of E-List's long-term health, since flat AOV across four years shows growth must come from customers buying more often, not spending more per order. 
 
+**Core KPIs:**
+1. [Sales Trends](#sales-trends) - Revenue and AOV over time, isolating real growth from pandemic-driven spikes.
+2. [Product Performance](#product-performance) - Revenue and refund rate by product, identifying top drivers and risk areas.
+3. [Loyalty Program](#loyalty-program) - Retention rate and AOV, loyalty vs non-loyalty customers.
+4. [Refund Rates](#refund-rates) - Overall and category-level refund rate, a proxy for product/listing quality.
+5. [Regional Results](#regional-results) - Revenue and order volume by region, mapping growth opportunity.
+
+<br>
 
 ## Sales Trends
 
@@ -148,7 +152,7 @@ E-List is a US founded e-commerce company dedicated to the digital marketplace, 
 <br>
 <br>
 
-## Geography 
+## Regional Results
 
 > [!NOTE]
 >  ### Insights
